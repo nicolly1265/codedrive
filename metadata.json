@@ -1,0 +1,6 @@
+{
+  "name": "EcoDrive - Controle de Abastecimento",
+  "description": "Sistema completo para controle de abastecimento, consumo de combustível, manutenções preventivas e rastreamento de rotas por GPS em tempo real.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
